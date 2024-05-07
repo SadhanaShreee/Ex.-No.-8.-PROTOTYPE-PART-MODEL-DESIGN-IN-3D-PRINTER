@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/SadhanaShreee/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/144517664/1f2066eb-a2bb-4e84-8860-d77d19917856)
+
+
+### Name: SADHANA SHREE B
+### Register Number: 212223230177
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
